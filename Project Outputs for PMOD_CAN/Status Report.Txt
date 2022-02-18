@@ -1,0 +1,10 @@
+Output: PMOD_CAN(Pick and Place)
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [PMOD_CAN.PcbDoc]
+   Generated File[PMOD_CAN(Pick and Place).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:33:16 On 23.05.2021

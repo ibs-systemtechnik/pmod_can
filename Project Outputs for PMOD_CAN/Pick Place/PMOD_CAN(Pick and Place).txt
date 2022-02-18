@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Temp\pmod_can\Project Outputs for PMOD_CAN\Pick Place\PMOD_CAN(Pick and Place).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.05.21
+Time:       15:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer    Footprint         Center-X(mm) Center-Y(mm) Rotation Description                        
+X2         691313510003 TopLayer WE-691313510003   257.1750     198.1200     90       "TERM BLOCK HDR 3POS 90DEG 5.08MM" 
+X1         61300611021  TopLayer WE-61302021121    231.7750     198.1200     0        "CONN HEADER R/A 6POS 2.54MM"      
+U1         SN65HVD235DR TopLayer SOIC-8            238.1250     198.1200     0        "IC TRANSCEIVER HALF 1/1 8SOIC"    
+R3         120R         TopLayer 1206-R            241.9350     198.1200     270      "RES SMD 120 OHM 1% 1/4W 1206"     
+J3         61300311121  TopLayer WE-61300311121    253.3650     198.1200     90       "CONN HEADER VERT 3POS 2.54MM"     
+J2         61300311121  TopLayer WE-61300311121    245.7450     198.1200     90       "CONN HEADER VERT 3POS 2.54MM"     
+D3         SMAJ12.0CA   TopLayer SMA-BIDIRECTIONAL 249.5550     191.7700     270      "TVS DIODE 12V 19.9V DO214AC"      
+D2         SMAJ6.5CA    TopLayer SMA-BIDIRECTIONAL 249.5550     198.1200     270      "TVS DIODE 6.5V 11.2V DO214AC"     
+D1         SMAJ12.0CA   TopLayer SMA-BIDIRECTIONAL 249.5550     204.4700     270      "TVS DIODE 12V 19.9V DO214AC"      
+C3         100n         TopLayer 0805-C            239.3950     191.7700     270      "CAP CER 0.1UF 50V X8R 0805"       
+C4         10u          TopLayer 0805-C            236.8550     191.7700     90       "CAP CER 10UF 16V X5R 0805"        
